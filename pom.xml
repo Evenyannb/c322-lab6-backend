@@ -54,7 +54,7 @@
 			<configuration>
 				<includes>
 					<include>
-						edu.iu.datagram.ducks service.model.DuckTest
+						edu.iu.habahram.ducksservice.model.DuckTest
 					</include>
 				</includes>
 				<excludes>
